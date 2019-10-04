@@ -1,0 +1,14 @@
+Step #1:
+Make UI(all inputs, buttons, static text)
+
+Step #2:
+make functionality for displaying an array of meetups
+
+Step #3:
+make functionality for adding meetups to the array
+
+Step #4:
+make functionality for removing meetups from the array
+
+Step #5:
+make total meetup counter
